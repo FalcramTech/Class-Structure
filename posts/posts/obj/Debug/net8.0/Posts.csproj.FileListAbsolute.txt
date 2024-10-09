@@ -1,0 +1,14 @@
+C:\Users\vanya\source\repos\posts\Posts\bin\Debug\net8.0\Posts.exe
+C:\Users\vanya\source\repos\posts\Posts\bin\Debug\net8.0\Posts.deps.json
+C:\Users\vanya\source\repos\posts\Posts\bin\Debug\net8.0\Posts.runtimeconfig.json
+C:\Users\vanya\source\repos\posts\Posts\bin\Debug\net8.0\Posts.dll
+C:\Users\vanya\source\repos\posts\Posts\bin\Debug\net8.0\Posts.pdb
+C:\Users\vanya\source\repos\posts\Posts\obj\Debug\net8.0\Posts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\source\repos\posts\Posts\obj\Debug\net8.0\Posts.AssemblyInfoInputs.cache
+C:\Users\vanya\source\repos\posts\Posts\obj\Debug\net8.0\Posts.AssemblyInfo.cs
+C:\Users\vanya\source\repos\posts\Posts\obj\Debug\net8.0\Posts.csproj.CoreCompileInputs.cache
+C:\Users\vanya\source\repos\posts\Posts\obj\Debug\net8.0\Posts.dll
+C:\Users\vanya\source\repos\posts\Posts\obj\Debug\net8.0\refint\Posts.dll
+C:\Users\vanya\source\repos\posts\Posts\obj\Debug\net8.0\Posts.pdb
+C:\Users\vanya\source\repos\posts\Posts\obj\Debug\net8.0\Posts.genruntimeconfig.cache
+C:\Users\vanya\source\repos\posts\Posts\obj\Debug\net8.0\ref\Posts.dll
